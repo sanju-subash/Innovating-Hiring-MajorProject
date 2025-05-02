@@ -1,0 +1,12 @@
+{
+    "database": {
+        "user": "postgres",
+        "host": "localhost",
+        "database": "postgres",
+        "password": "admin",
+        "port": 5432
+    },
+    "google_ai": {
+        "api_key": "AIzaSyDKMcD84mr7Q9STbv1BMeTBvknmfxGVNe4"
+    }
+}
